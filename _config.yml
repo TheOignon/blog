@@ -18,12 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Alexi 'Oignon' Vandevoorde
-email: contact@alexi.vandevoor.de
+title: Alexi 'Oignon'
+email: alexi@oignonpedaleur.xyz
 description: >- # this means to ignore newlines until "baseurl:"
   Bienvenue sur mon blog, ici on retrouvera principalement mes aventures vélo.
+domain: oignonpedaleur.xyz
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://oignonpedaleur.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TheOignonAlex
 github_username:  TheOignon
 
@@ -51,3 +52,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+sass:
+  sass_dir: _sass
