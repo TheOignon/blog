@@ -22,16 +22,24 @@ title: Alexi 'Oignon'
 email: alexi@oignonpedaleur.xyz
 description: >- # this means to ignore newlines until "baseurl:"
   Bienvenue sur mon blog, ici on retrouvera principalement mes aventures vélo.
-domain: oignonpedaleur.xyz
+domain: blog.oignonpedaleur.xyz
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://oignonpedaleur.xyz" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: TheOignonAlex
-github_username:  TheOignon
+url: "https://blog.oignonpedaleur.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+minima:
+  skin: auto
+  social_links:
+    - platform: youtube
+      user_url: https://www.youtube.com/channel/UC27LaGVjCJIMsH2e8AmfscQ
+    - platform: instagram
+      user_url: https://www.instagram.com/alexioignon
+    - platform: x
+      user_url: https://x.com/TheOignonAlex
 
 # Exclude from processing.
 # The following items will not be processed, by default.
