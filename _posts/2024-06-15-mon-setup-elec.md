@@ -19,11 +19,11 @@ Pour l’éclairage avant, une lampe fixée au vélo et une lampe de casque.
 
 Une lampe de la marque Fenix, une marque Chinoise avec plus de 20 ans d’âge et qui s’exporte partout dans le monde. J’ai choisi le modèle BC21R v3. Principalement pour sa compatibilité avec des cellules Lithium 18650, le fait qu’elle ne demande qu’une seule cellule pour fonctionner mais également ses caractéristiques techniques. Premièrement, mais aussi le plus commun : étanchéité. Très important car ma précédente lampe à bas coût a vite pris l’eau de manière permanente et après multiple tentatives de réparation (refaire les soudures, etc) m’a lâché. Cette Fenix BC21R est vendue comme étant IP68, c’est-à-dire le plus haut niveau de protection contre la poussière et l’eau (submersible jusqu’à 1m, etc). Il faut prendre en compte que cette lampe, comme ayant une batterie intercheangable, ne respecte ces critères que lorsque le joint est en bon état, il y’a donc un peu d’entretien sur le très long terme (lubrifier le joint et le changer s’il devient poreux).
 
-![Fenix BC21R v3 sur la fourche de vélo.](assets/images/2024-06-15-mon-setup-elec/IMG_1669.jpg){: .center}
+![Fenix BC21R v3 sur la fourche de vélo.](/assets/images/2024-06-15-mon-setup-elec/IMG_1669.jpg){: .center}
 
 En caractéristiques techniques, le vendeur annonce 4 niveaux de luminosité, allant de 50 à 1200 lumens, le mode 1200 lumens étant un mode temporaire qui passe à environ 500 lumens au bout d’un certain temps. En autonomie le constructeur annonce 33h à 50 lumens, 11h à 150 lumens et 6h à 400 lumens. Je roule en général avec le mode 150 lumens sur route et en forêt avec le mode 400 lumens.  Le plus génial étant que ces autonomies sont annoncées avec la batterie fournie qui est une batterie de 2600 mAh. Comme j’ai racheté des batteries de 3400 mAh, je gagne en théorie 30% d’autonomie. 
 
-![Fenix BC21R v3 et sa batterie de 3400 mAh.](assets/images/2024-06-15-mon-setup-elec/IMG_1672.jpg){: .center}
+![Fenix BC21R v3 et sa batterie de 3400 mAh.](/assets/images/2024-06-15-mon-setup-elec/IMG_1672.jpg){: .center}
 
 *Evidemment il faut prendre en compte que tout ceci ne se base que sur les informations fournies par le fabricant et cela ne représente pas la vie réelle. Je n’ai pas encore de retour d’expérience en basse température, etc. Pour le moment ce que je peux dire c’est que je n’ai pas épuisée une seule batterie en roulant en mode 150 à 400 lumens mixte sur une nuit de roulage en mai (allumée environ 8 heures).*
 
@@ -37,7 +37,7 @@ C’est un ami ancien ultra-trailer qui m’a recommandé cette marque. Elle n�
 
 Identique à ma lampe de vélo, le vendeur annonce une étanchéité IP68 mais à condition que les joints soient en bon état et donc non poreux et correctement lubrifiés.
 
-![Armytek Wizard C2 Pro sur mon casque](assets/images/2024-06-15-mon-setup-elec/IMG_1674.jpg){: .center}
+![Armytek Wizard C2 Pro sur mon casque](/assets/images/2024-06-15-mon-setup-elec/IMG_1674.jpg){: .center}
 
 Les caractéristiques techniques en éclairage sont bien supérieures à la Fenix mais également bien plus, voir même bien trop nombreuses. La lampe propose 12 niveaux d’éclairages et avec la batterie d’origine annoncée pour 3500 mAh, propose de 0.14 lumens pour 200 jours avec le mode Firefly 1 à 2300 lumens en mode Turbo 3. J’ai commencé à tester cette lampe en condition de lecture de nuit dans mon lit avec les modes Firefly et c’était suffisant pour lire dans le noir total. Pour rouler, j’ai commencé à l’utiliser avec les modes “Main” et en unique lampe, allant de 50 à 350 lumens pour une autonomie de 43h à 5h, aucun problème. En lampe de complément à la lampe de vélo, je n’ai probablement pas besoin de la recharger sur plusieurs nuit d’affilé ou alors je peux avoir le confort d’être à tout moment éclairé comme en plein jour sans souci.
 
