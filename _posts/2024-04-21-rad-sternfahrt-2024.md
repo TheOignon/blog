@@ -39,3 +39,9 @@ Après notre premier arrêt / pause au bout de 25km, nous repartons en direction
 Après cette fameuse portion d'autoroute tant convoitée (si petite soit-elle), on rentre à nouveau dans la ville. Passage derrière la Theresienwiese (place principalement connue pour l'Oktoberfest) direction Koenigsplatz pour un rassemblement de festivités. En route je me fais alpaguer par quelqu'un avec qui nous n'avons pas échangé les prénoms mais qui m'a tout de suite demandé si j'étais ultracycliste (assez flateur, dans le sens où le plus ultra sur mon vélo ce jour était ma sacoche de selle, ma top-tube et food pouch), peut-être le fruit du hasard. Nous avons pu discuter brievement de la Paris-Brest-Paris, épreuve mutuellement convoitée pour d'ici à 3 ans. Et puis tranquillement, après m'être tout juste rendus compte que les chutes de neige sont passées et que le ciel s'éclairci un petit peu, nous arrivons à la place du Roi (*Koenigsplatz*). Une estrade et de grosses enceintes pour discours et musique, des barnums pour proposer thé, café ou alors des marques cyclistes présentes pour effectuer de petites réparations ou proposer des goodies et enfin la nuée de vélos, tous plus beaux les uns que les autres, à pouvoir regarder et admirer quand cela s'y prête. Je fais une balade de 10mn au milieu de tout ca mais l'envie pressante de rentrer à la maison se fait sentir, demi tour direction ma ville. Au total aujourd'hui j'aurais fait 90km, une bonne partie le sourire aux lèvres de me balader au milieu de tout ce monde, pour un objectif commun.
 
 ![Le gang des vélomobiles](/assets/images/2024-04-21-rad-sternfahrt-2024/velomobiles.jpg){: .center}
+
+## La vidéo Youtube
+
+J'ai effectué une vidéo recap qui montre l'évènement. Tu peux la retrouver ici :
+
+ {% youtube "https://www.youtube.com/watch?v=kwMlN2p2KrA" %}

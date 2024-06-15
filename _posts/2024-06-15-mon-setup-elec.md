@@ -9,13 +9,13 @@ J’ai fait mes premiers BRM, et je continue de préparer mon matériel pour la 
 
 Rappel que tout ceci a été acheté par mon propre argent, que je ne suis en aucun cas affilié à ces marques et que la décision finale du setup est principalement le résultat de recherches et  décisions propres.
 
-# Eclairage
+## Eclairage
 
 Commencons par le plus standard et ce qui est potentiellement le moins intéressant, les lampes arrières. La principale c’est une Garmin Varia, en couple radar + lampe, un investissement compte tenu de la taille, du poids et de sa batterie qui ne peut être remplacée (que ca soit durant la sortie ou pour l’obsolescence). Un choix assez facile, c’est une lampe populaire parmis les cyclistes en général. Je l’ai depuis presque deux ans. Pas de souci en général, elle fait ce qu’on lui demande. Parfois un peu trop puissante pour rouler en peloton de ce que l’on m’a fait remarquer à mon dernier BRM. En combinaison, j’aurais une lampe de chez Sigma assez basique, car la Garmin a cet inconvénient de ne pas pouvoir s’utiliser en charge et la Sverigetempot demande d’avoir deux éclairages arrière.
 
 Pour l’éclairage avant, une lampe fixée au vélo et une lampe de casque. 
 
-## Lampe de vélo : Fenix BC21R
+# Lampe de vélo : Fenix BC21R
 
 Une lampe de la marque Fenix, une marque Chinoise avec plus de 20 ans d’âge et qui s’exporte partout dans le monde. J’ai choisi le modèle BC21R v3. Principalement pour sa compatibilité avec des cellules Lithium 18650, le fait qu’elle ne demande qu’une seule cellule pour fonctionner mais également ses caractéristiques techniques. Premièrement, mais aussi le plus commun : étanchéité. Très important car ma précédente lampe à bas coût a vite pris l’eau de manière permanente et après multiple tentatives de réparation (refaire les soudures, etc) m’a lâché. Cette Fenix BC21R est vendue comme étant IP68, c’est-à-dire le plus haut niveau de protection contre la poussière et l’eau (submersible jusqu’à 1m, etc). Il faut prendre en compte que cette lampe, comme ayant une batterie intercheangable, ne respecte ces critères que lorsque le joint est en bon état, il y’a donc un peu d’entretien sur le très long terme (lubrifier le joint et le changer s’il devient poreux).
 
@@ -31,7 +31,7 @@ Concernant le faisceau d’éclairage, il est “double” : large au devant des
 
 Le prix reste important : je l’ai payée 75 euros, batterie incluse sur un site allemand. A cela j’ai rajouté 5 euros pour prendre la fixation me permettant de mettre cette lampe sur une fixation de type GoPro.
 
-## Lampe de casque : Armytek Wizard C2 Pro
+# Lampe de casque : Armytek Wizard C2 Pro
 
 C’est un ami ancien ultra-trailer qui m’a recommandé cette marque. Elle n’excelle pas dans les lampes pour sportifs mais dans les lampes au sens plus large. C’est une marque Canadienne appelée Armytek, qui selon leurs dires produit les lampes à partir de composants Nord-Américains et Japonais, assemblée en Chine. Leur gammes sont infinies mais j’ai choisi la gamme “Wizard” avec la C2 Pro, gamme offrant des lampes utilisant une simple cellule 18650 qui est pensée pour être une lampe frontale. J’avais auparavant une lampe frontale achetée sur Amazon, fonctionnant très bien et légère pour son prix mais dont l’autonomie sur l’ultra laissant à désirer et qui ne remplissait pas mes conditions de pouvoir passer de 0 à 100% d’autonomie en quelques secondes par juste remplacer la batterie.
 
@@ -45,9 +45,9 @@ Pour son faisceau, on est sur quelque chose de très large et omnidirectionnel, 
 
 Pour le prix celle-ci est plus onéreuse puisque je l’ai payée une centaine d’euros sur Amazon. Elle vient avec son propre connecteur de charge propriétaire, mais la batterie étant standard vous pouvez simplement retirer la batterie et la charger à coté.
 
-# Batteries et charge
+## Batteries et charge
 
-## Cellules 18650 et chargeur
+# Cellules 18650 et chargeur
 
 Tout mon système de recharge et d’éclairage se concentre autour de ces cellules. J’ai donc choisi des batteries de bonne qualité avec circuit de protection charge / décharge. Une cellule 18650 de base ce n’est que les composant chimiques dans un format tout à fait cylindrique. Les lampes n’ont qu’une composition électrique assez simple et ne possèdent pas de circuit bloquant la décharge profonde, ce qui peut s’avérer fatal sur des cellules au lithium. Une cellule possède aussi un courant maximum de charge et décharge, un court circuit sur ces batteries pourrait par exemple les faire prendre feu, etc. Pour ces conditions, j’ai préféré payer un peu plus pour la sécurité de mes batteries qui incluent donc un circuit les protégeant de toutes ces éventualités. J’ai évidemment fait attention à choisir des batteries de bonne marque acheté chez un revendeur fiable et qui atteste en théorie d’être au plus proche des spécificités annoncées. 
 
@@ -59,12 +59,12 @@ Avec un total de 6 batteries en comptant celles dans mes lampes, cette solution 
 
 De parce-que j’ai voulu des cellules de très bonne qualité avec protection, cette solution m’a couté environ 70e, 10e pour le boitier de charge et une dizaine d’euros par batteries. J’aurais pu prendre des cellules de bonne marque sans protection et toujours d’excellente qualité pour 2 fois moins cher.
 
-## Autres batteries externes
+# Autres batteries externes
 
 En complément, je possède une batterie externe magnétique sans fil de chez Anker pour mon téléphone qui m’assure une charge sans cable dans l’éventualité ou ceux-ci ne sont pas ou plus utilisables. Moins efficace car avec une perte de rendement, c’est une solution pratique qui me permet de simplement charger une fois mon téléphone complètement.
 
 Enfin, j’ai également à tout moment une ancienne batterie de chez OnePlus de 10000 mAh qui reste en permanence dans ma sacoche Apidura et donc deux cables y sont en branchés et allant en direction du GPS et de mes lampes arrières. Je n’ai qu`à brancher l’appareil pour qu’il se mette en charge et avec la faible consommation de ceux-ci, peu besoin de recharcher la batterie régulièrement.
 
-## Et pour recharger ?
+# Et pour recharger ?
 
 Une fois toutes ces batteries déchargées, il va bien falloir recharger tout ce petit monde. De ce fait, j’ai choisi un chargeur de chez Anker qui me donne plusieurs choses : un format compact, jusqu’à 3 éléments sur le même boitier, de la puissance pour charger tout ce petit monde en même temps. Ce chargeur possède un dernier atout : les pins secteur se plient pour un petit gain de place supplémentaire. Marginal mais j’estime que c’est un atout supplémentaire. Cela reste un investissement supplémentaire, un boitier de charge pour environ 50 euros mais qui me sert aussi de chargeur d’ordinateur, etc.
