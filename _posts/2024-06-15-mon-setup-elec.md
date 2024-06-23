@@ -5,13 +5,13 @@ date:   2024-06-23 15:30:00 +0200
 categories: setup
 ---
 
-J’ai fait mes premiers BRM, et je continue de préparer mon matériel pour la Sverigetempot. Aujourd’hui je te présente donc mon matériel électrique que j’utilise désormais pour l’ultra, que ça soit les batteries mais encore les câbles que j’emmène, mes lampes, etc.
+J’ai fait mes premiers BRM, et je continue de préparer mon matériel pour la Sverigetempot 2024. Aujourd’hui je te présente donc mon matériel électrique que j’utilise désormais pour l’ultra, que ça soit les batteries mais encore les câbles, les lampes, etc.
 
 Rappel que tout ceci a été acheté par mon propre argent, que je ne suis en aucun cas affilié à ces marques et que la décision finale du setup est principalement le résultat de recherches et  décisions propres.
 
 ## Eclairage
 
-Commencons par le plus standard et ce qui est potentiellement le moins intéressant, les lampes arrières. La principale c’est une Garmin Varia, en couple radar + lampe, un investissement compte tenu de la taille, du poids et de sa batterie qui ne peut être remplacée (que ca soit durant la sortie ou pour l’obsolescence). Un choix assez facile, c’est une lampe populaire parmis les cyclistes en général. Je l’ai depuis presque deux ans. Pas de souci en général, elle fait ce qu’on lui demande. Parfois un peu trop puissante pour rouler en peloton de ce que l’on m’a fait remarquer à mon dernier BRM. En combinaison, j’aurais une lampe de chez Sigma assez basique, car la Garmin a cet inconvénient de ne pas pouvoir s’utiliser en charge et la Sverigetempot demande d’avoir deux éclairages arrière.
+Commençons par le plus standard et ce qui est potentiellement le moins intéressant, les lampes arrières. La principale c’est une Garmin Varia, en couple radar + lampe, un investissement compte tenu de la taille, du poids et de sa batterie qui ne peut être remplacée (que ca soit durant la sortie ou pour l’obsolescence). Un choix assez facile, c’est une lampe populaire parmis les cyclistes en général. Je l’ai depuis presque deux ans. Pas de souci en général, elle fait ce qu’on lui demande. Parfois un peu trop puissante pour rouler en peloton de ce que l’on m’a fait remarquer à mon dernier BRM. En combinaison, j’aurais une lampe de chez Sigma assez basique, car la Garmin a cet inconvénient de ne pas pouvoir s’utiliser en charge et la Sverigetempot demande d’avoir deux éclairages arrière.
 
 Pour l’éclairage avant, une lampe fixée au vélo et une lampe de casque. 
 
