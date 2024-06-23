@@ -73,4 +73,4 @@ Une fois toutes ces batteries déchargées, il va bien falloir recharger tout ce
 
 Cet article a été rédigé conjointement avec la production de cette vidéo  :
 
-{% youtube "https://www.youtube.com/watch?v=kwMlN2p2KrA" %}
+{% youtube "https://www.youtube.com/watch?v=gKlwU0CRp1A" %}
