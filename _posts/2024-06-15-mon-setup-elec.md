@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mes équipements électriques pour la Sverigetempot 2024"
-date:   2024-06-23 17:30:00 +0200
+date:   2024-06-23 15:30:00 +0200
 categories: setup
 ---
 
