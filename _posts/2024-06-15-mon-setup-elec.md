@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Mes équipements électriques"
-date:   2024-06-15 17:00:00 +0200
+title:  "Mes équipements électriques pour la Sverigetempot 2024"
+date:   2024-06-23 17:30:00 +0200
 categories: setup
 ---
 
@@ -68,3 +68,9 @@ Enfin, j’ai également à tout moment une ancienne batterie de chez OnePlus de
 # Et pour recharger ?
 
 Une fois toutes ces batteries déchargées, il va bien falloir recharger tout ce petit monde. De ce fait, j’ai choisi un chargeur de chez Anker qui me donne plusieurs choses : un format compact, jusqu’à 3 éléments sur le même boitier, de la puissance pour charger tout ce petit monde en même temps. Ce chargeur possède un dernier atout : les pins secteur se plient pour un petit gain de place supplémentaire. Marginal mais j’estime que c’est un atout supplémentaire. Cela reste un investissement supplémentaire, un boitier de charge pour environ 50 euros mais qui me sert aussi de chargeur d’ordinateur, etc.
+
+## La vidéo Youtube
+
+Cet article a été rédigé conjointement avec la production de cette vidéo  :
+
+{% youtube "https://www.youtube.com/watch?v=kwMlN2p2KrA" %}
